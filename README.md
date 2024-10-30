@@ -9,8 +9,6 @@ This project involves the creation of a dashboard for healthcare data, focusing 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Dashboard Creation](#dashboard-creation)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Achievements
@@ -44,11 +42,11 @@ After cd Healthcare-Dashboard, open the PBIX file located in the files folder of
 
 ![Dashboard Image](images/Dashboard.png)
 
-## Contributing
+## contact
 
 Feel free to contribute to this project by opening issues or submitting pull requests. Your input is welcome!
 
-[![My GitHub Profile](https://github.com/samiha128.png?size=60)](https://github.com/samiha128)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiha-el-mansouri-27505b250/)
 
 
 
