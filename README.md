@@ -1,6 +1,6 @@
 # Healthcare-Dashboard 
 
-A brief description of your project and its objectives.
+
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ A brief description of your project and its objectives.
 
 ## Background
 
-Describe the context of your project, the problems it addresses, and its significance. Explain why you chose Power BI to create the dashboard.
+
 
 ## Features
 
@@ -29,7 +29,7 @@ List the main features of your dashboard:
 
 ## Technologies Used
 
-Indicate the technologies and tools used in the project:
+
 - Power BI
 - Data sources (e.g., SQL, Excel, API)
 - Other tools or libraries
