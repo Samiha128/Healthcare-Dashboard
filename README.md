@@ -35,4 +35,10 @@ In this project, I have successfully completed the following tasks:
 Instructions on how to set up the environment to use the project:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project.git
+    git clone git@github.com:Samiha128/Healthcare-Dashboard.git
+2.Navigate to the project directory:
+   ```bash
+     cd Healthcare-Dashboard
+After cd Healthcare-Dashboard, open the PBIX file located in the files folder of this project in Power BI
+
+   
