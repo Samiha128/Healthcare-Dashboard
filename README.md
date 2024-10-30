@@ -42,7 +42,7 @@ Instructions on how to set up the environment to use the project:
 After cd Healthcare-Dashboard, open the PBIX file located in the files folder of this project in Power BI
 ## Dashboard Creation
 
-![Dashboard Image](images/dashboard.png)
+![Dashboard Image](images/Dashboard.png)
 
 
 
