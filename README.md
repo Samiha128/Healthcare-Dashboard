@@ -1,11 +1,11 @@
 # Healthcare-Dashboard 
 
+This project involves the creation of a dashboard for healthcare data, focusing on both inpatient and outpatient information. The dashboard aims to provide an intuitive interface for healthcare professionals to visualize and analyze patient data effectively.
 
 
 ## Table of Contents
 
-- [Background](#background)
-- [Features](#features)
+-[Project Achievements](#project-achievements)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -14,25 +14,21 @@
 - [License](#license)
 - [Contact](#contact)
 
-## Background
+## Project Achievements
 
+In this project, I have successfully completed the following tasks:
 
-
-## Features
-
-List the main features of your dashboard:
-- Interactive visualizations
-- Dynamic filters
-- Custom reports
-- Data export options
-- Other key features
+- [x] Requirement Gathering
+- [x] Data Collection
+- [x] Transformation and Modeling
+- [x] Data Visualization Blueprint
+- [x] Dashboard Layout and Design
 
 ## Technologies Used
 
-
 - Power BI
-- Data sources (e.g., SQL, Excel, API)
-- Other tools or libraries
+- Data Sources (Open Source Datasets)
+
 
 ## Installation
 
