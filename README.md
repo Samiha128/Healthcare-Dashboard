@@ -8,7 +8,6 @@ This project involves the creation of a dashboard for healthcare data, focusing 
 - [Project Achievements](#project-achievements)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dashboard Creation](#dashboard-creation)
 - [Contributing](#contributing)
 - [License](#license)
@@ -38,8 +37,13 @@ Instructions on how to set up the environment to use the project:
     git clone git@github.com:Samiha128/Healthcare-Dashboard.git
 2.Navigate to the project directory:
     
-       cd Healthcare-Dashboard
+    cd Healthcare-Dashboard
 
 After cd Healthcare-Dashboard, open the PBIX file located in the files folder of this project in Power BI
+## Dashboard Creation
+
+![Dashboard Image](images/dashboard.png)
+
+
 
    
