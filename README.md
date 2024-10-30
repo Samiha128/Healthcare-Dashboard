@@ -48,7 +48,7 @@ After cd Healthcare-Dashboard, open the PBIX file located in the files folder of
 
 Feel free to contribute to this project by opening issues or submitting pull requests. Your input is welcome!
 
-[![My GitHub Profile](images/my-github-avatar-circle.png)](https://github.com/samiha128)
+[![My GitHub Profile](https://github.com/samiha128.png?size=60)](https://github.com/samiha128)
 
 
 
